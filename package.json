@@ -1,0 +1,27 @@
+{
+  "name": "shopping-web",
+  "version": "1.0.0",
+  "description": "shopping web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phuonghoa000/web.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "Phuong Hoa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phuonghoa000/web/issues"
+  },
+  "homepage": "https://github.com/phuonghoa000/web#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
+}
